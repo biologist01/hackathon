@@ -1,5 +1,3 @@
-import Image from "next/image";
-// import Bedroom from "../public/bedroom.png"
 export default function Products(){
 
     interface Card{
